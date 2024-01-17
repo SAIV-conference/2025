@@ -1,4 +1,4 @@
-title: Conference 2020
+title: SAIV 2024
 preposition: at
 description: >-
   Conference of a random organization on January 1st in Zurich, Switzerland
@@ -11,6 +11,9 @@ remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.3"
 markdown: kramdown
 sass:
   style: compressed
+
+plugins:
+  - jekyll-include-cache
 
 # Additional exclude from processing
 exclude:
