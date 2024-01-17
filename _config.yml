@@ -66,7 +66,7 @@ conference:
   navigation:
     logo:
       name: Symposium on AI Verification #Digital Society Switzerland
-      # img: ''
+         img: 'logo_draft.png'
       #url: 'https://digitale-gesellschaft.ch/'
     links:
       - name: Program
@@ -79,12 +79,16 @@ conference:
         relative_url: /location/
       - name: Previous Editions
         menu:
-          - name: 2020 (current)
+          - name: 2024 (current)
             disabled: true
-          - name: 2019
-            relative_url: /2019/
-          - name: 2018
-            relative_url: /2018/
+          - name: 2023
+            relative_url: /2023/
+          - name: 2022
+            relative_url: /2022/
+          - name: 2021
+            relative_url: /2021/
+          - name: 2020
+            relative_url: /2020/
 
   # Link Preview for Sharing
   link_preview:
@@ -96,8 +100,8 @@ conference:
 
   # Main landing page
   main:
-    logo:
-       img: 'logo_draft.png'
+    # logo:
+    #    img: 'logo_draft.png'
     links:
       - name: Program
         relative_url: /program/
