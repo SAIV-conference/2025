@@ -77,18 +77,18 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
-      - name: Previous Editions
-        menu:
-          - name: 2024 (current)
-            disabled: true
-          - name: 2023
-            relative_url: /2023/
-          - name: 2022
-            relative_url: /2022/
-          - name: 2021
-            relative_url: /2021/
-          - name: 2020
-            relative_url: /2020/
+      #- name: Previous Editions
+      #  menu:
+      #    - name: 2024 (current)
+      #      disabled: true
+      #    - name: 2023
+      #      relative_url: /2023/
+      #    - name: 2022
+      #      relative_url: /2022/
+      #    - name: 2021
+      #      relative_url: /2021/
+      #    - name: 2020
+      #      relative_url: /2020/
 
   # Link Preview for Sharing
   link_preview:
