@@ -1,4 +1,4 @@
-title: Symposium on AI Verification 2024
+title: SAIV 2024
 #preposition: at
 #description: >-
   #Conference of a random organization on January 1st in Zurich, Switzerland
@@ -65,7 +65,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Symposium on AI Verification #Digital Society Switzerland
+      #name: Symposium on AI Verification #Digital Society Switzerland
       img: 'logo_draft_small.png'
       #url: 'https://digitale-gesellschaft.ch/'
     links:
@@ -100,8 +100,8 @@ conference:
 
   # Main landing page
   main:
-    # logo:
-    #    img: 'logo_draft.png'
+    logo:
+        img: 'logo_draft_large.png'
     links:
       - name: Program
         relative_url: /program/
