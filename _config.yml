@@ -65,9 +65,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Digital Society Switzerland
+      name: Symposium on AI Verification #Digital Society Switzerland
       # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      #url: 'https://digitale-gesellschaft.ch/'
     links:
       - name: Program
         relative_url: /program/
@@ -96,8 +96,8 @@ conference:
 
   # Main landing page
   main:
-    # logo:
-    #   img: ''
+    logo:
+       img: 'logo_draft.png'
     links:
       - name: Program
         relative_url: /program/
