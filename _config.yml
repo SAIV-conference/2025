@@ -104,6 +104,7 @@ conference:
   main:
     logo:
         img: 'logo_draft_large.png'
+        name: Symposium on AI Verification, July 22-23, 2024, in Montreal, Canada
     links:
       - name: Program
         relative_url: /program/
