@@ -56,14 +56,12 @@ defaults:
     values:
       layout: room
 
-
 conference:
-
   # Language
   lang: en
 
   # Show theme errors:
-  show_errors: True
+  show_errors: False
 
   # Navigation bar
   navigation:
@@ -72,14 +70,14 @@ conference:
       img: 'logo_draft_small.png'
       #url: 'https://digitale-gesellschaft.ch/'
     links:
-      - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers
-        relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
+      #- name: Program
+        #relative_url: /program/
+      #- name: Talks
+        #relative_url: /talks/
+      #- name: Speakers
+        #relative_url: /speakers/
+      #- name: Location
+        #relative_url: /location/
       #- name: Previous Editions
       #  menu:
       #    - name: 2024 (current)
@@ -97,22 +95,22 @@ conference:
   link_preview:
     # also adapt "preposition" property at top for more meaningful descriptions
     disable: false
-    img:
-      twitter: 'twitter_preview.png'      # inside /assets/images/
-      open_graph: 'facebook_preview.png'  # inside /assets/images/
+    #img:
+      #twitter: 'twitter_preview.png'      # inside /assets/images/
+      #open_graph: 'facebook_preview.png'  # inside /assets/images/
 
   # Main landing page
   main:
     logo:
         img: 'logo_draft_large.png'
-    links:
-      - name: Program
-        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
+    #links:
+      #- name: Program
+        #relative_url: /program/
+      #- name: How to get there
+        #relative_url: /location/
+      #- name: Tickets
+        #disabled: true
+        #absolute_url: ''
 
   # Information boxes
   #info_bars:
@@ -130,54 +128,52 @@ conference:
   #    pages_only: true
 
   # Live indications
-  live:
-    date: 01.01.2020
-    timezone: GMT+1
-    stop:       240  # in minutes
-    streaming:
-      enable: true
-      pause:     60  # in minutes
-      prepend:    5  # in minutes
-      extend:     5  # in minutes
-    demo:
-      enable: false
-      duration: 300  # in seconds
-      pause:     10  # in seconds
+  #live:
+    #date: 01.01.2020
+    #timezone: GMT+1
+    #stop:       240  # in minutes
+    #streaming:
+      #enable: true
+      #pause:     60  # in minutes
+      #prepend:    5  # in minutes
+      #extend:     5  # in minutes
+    #demo:
+      #enable: false
+      #duration: 300  # in seconds
+      #pause:     10  # in seconds
 
-  talks:
-    # Talk categories
-    main_categories:
-      - name: Cat A
-        color: info
-      - name: Cat B
-        color: success
+  #talks:
+    ## Talk categories
+    #main_categories:
+      #- name: Cat A
+        #color: info
+      #- name: Cat B
+        #color: success
+    ## Hide icons on talk overview page
+    #hide_icons: false
 
-    # Hide icons on talk overview page
-    hide_icons: false
+  #speakers:
+    ## Show first and last name
+    #show_firstname: true
 
-  speakers:
-    # Show first and last name
-    show_firstname: true
-
-  location:
-    # Disable links to locations
-    hide: false
-    # URL of location / room overview page
-    url: '/location'
-    # Main page title shown on location/room navigation bar
-    navbar_title: 'Location'
-    # Show map on location main page.  Set `map: false` if you don't want to
-    # display it.
-    map:
-      # Initial map center point
-      home_coord: 47.37808, 8.53935
-      # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
-      # The following do match the Bootstrap design not too badly:
-      #   - Thunderforest.Neighbourhood
-      #   - Esri.WorldTopoMap
-      map_provider: "OpenStreetMap.Mapnik"
-      default_zoom: 17
-
+  #location:
+    ## Disable links to locations
+    #hide: true
+    ## URL of location / room overview page
+    #url: '/location'
+    ## Main page title shown on location/room navigation bar
+    #navbar_title: 'Location'
+    ## Show map on location main page.  Set `map: false` if you don't want to
+    ## display it.
+    #map:
+      ## Initial map center point
+      #home_coord: 45.4023, -73.4683
+      ## Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+      ## The following do match the Bootstrap design not too badly:
+      ##   - Thunderforest.Neighbourhood
+      ##   - Esri.WorldTopoMap
+      #map_provider: "OpenStreetMap.Mapnik"
+      #default_zoom: 17
 
   program:
     # URL of program page
