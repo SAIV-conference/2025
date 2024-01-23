@@ -5,4 +5,4 @@ The aim of this symposium is to bring together researchers from the communities 
 
 SAIV 2024 comprises the [5th International Verification of Neural Networks Competition (VNN-COMP'24)](https://sites.google.com/view/vnn2024).
 
-SAIV 2024 will be co-located with the [36th International Conference on Computer Aided Verification](http://i-cav.org/2024/) and take place in Montreal, Canada on July 22-23, 2024.
+The 7th SAIV 2024 will be co-located with the [36th International Conference on Computer Aided Verification](http://i-cav.org/2024/) and take place in Montreal, Canada on July 22-23, 2024.
