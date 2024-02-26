@@ -99,7 +99,7 @@ conference:
         - name: FoMLAS 2019
           absolute_url: 'https://fomlas2019.wixsite.com/fomlas2019'
         - name: FoMLAS 2018
-          disabled: true
+          absolute_url: 'https://cps-vo.org/node/40531'
 
   # Link Preview for Sharing
   link_preview:
