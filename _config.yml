@@ -66,10 +66,16 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      #name: Symposium on AI Verification #Digital Society Switzerland
+      #name: Symposium on AI Verification
       img: 'logo_small.png'
-      #url: 'https://digitale-gesellschaft.ch/'
+      #url: ''
     links:
+      - name: About
+        relative_url: /about/
+      - name: Call for Papers
+        relative_url: /call/
+      - name: Committees
+        relative_url: /committees/
       #- name: Program
         #relative_url: /program/
       #- name: Talks
@@ -78,7 +84,7 @@ conference:
         #relative_url: /speakers/
       #- name: Location
         #relative_url: /location/
-      - name: Previous editions
+      - name: Previous Editions
         menu:
         #- name: SAIV 2024
           #relative_url: /2024/
