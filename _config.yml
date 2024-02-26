@@ -78,18 +78,28 @@ conference:
         #relative_url: /speakers/
       #- name: Location
         #relative_url: /location/
-      #- name: Previous Editions
-      #  menu:
-      #    - name: 2024 (current)
-      #      disabled: true
-      #    - name: 2023
-      #      relative_url: /2023/
-      #    - name: 2022
-      #      relative_url: /2022/
-      #    - name: 2021
-      #      relative_url: /2021/
-      #    - name: 2020
-      #      relative_url: /2020/
+      - name: Previous editions
+        menu:
+        #- name: SAIV 2024
+          #relative_url: /2024/
+        - name: FoMLAS 2023
+          absolute_url: 'https://fomlas2023.wixsite.com/fomlas2023'
+        - name: WOLVERINE 2023
+          absolute_url: 'https://wolverine-workshop.github.io/Wolverine2023/'
+        - name: FoMLAS 2022
+          absolute_url: 'https://fomlas2023.wixsite.com/fomlas2022'
+        - name: WOLVERINE 2022
+          absolute_url: 'https://wolverine-workshop.github.io/Wolverine2022/'
+        - name: FoMLAS 2021
+          absolute_url: 'https://fomlas2021.wixsite.com/fomlas2021'
+        - name: WOLVERINE 2021
+          absolute_url: 'https://wolverine-workshop.github.io/Wolverine2021/'
+        - name: FoMLAS 2020
+          absolute_url: 'https://fomlas2020.wixsite.com/fomlas2020'
+        - name: FoMLAS 2019
+          absolute_url: 'https://fomlas2019.wixsite.com/fomlas2019'
+        - name: FoMLAS 2018
+          disabled: true
 
   # Link Preview for Sharing
   link_preview:
