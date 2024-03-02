@@ -15,6 +15,7 @@ title: Committees
 
 ## Program Committee
 
+- Alessandro Abate (University of Oxford)
 - Guy Amir (Hebrew University of Jerusalem)
 - Guy Avni (University of Haifa)
 - Stanley Bak (Stony Brook University)
