@@ -48,5 +48,7 @@ Three categories of submissions are invited:
 SAIV 2024 uses a **single-blind** policy, so submissions need not be anonymized.
 We ask authors to submit an **abstract** prior to the full paper.
 Abstracts and full papers are submitted via the [EasyChair submission website](https://easychair.org/conferences/?conf=saiv2024).
+When preparing the submission, we recommend to use the [LNCS template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) because it will be used for publication, but other templates are welcome for the submission as well.
 All papers conforming to the submission guidelines will be peer-reviewed by members of the program committee.
 Submissions will be evaluated on the basis of originality, importance of contribution, soundness, quality of presentation, and appropriate comparison to related work.
+Papers selected for publications will appear in Springer's LNCS proceedings.
