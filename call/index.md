@@ -35,12 +35,11 @@ The topics covered by SAIV include, but are not limited to, the following:
 
 ## Submission Guidelines
 
-##### [EasyChair submission website](https://easychair.org/conferences/?conf=saiv2024)
+###### [→ EasyChair submission website](https://easychair.org/conferences/?conf=saiv2024)
 
-We invite both **long** and **short** papers.
-Three categories of submissions are invited:
+We invite three categories of submissions:
 
-1. *Original papers*: describe original research and sufficient detail to assess the merits and relevance of the submission. For papers reporting experimental results, authors are strongly encouraged to make their data available.
+1. *Original papers*: describe original research and sufficient detail to assess the merits and relevance of the submission. For papers reporting experimental results, authors are strongly encouraged to make their data available. We welcome both short and long papers. There are no strict page limits, although we recommend not going below 4 pages and not exceeding 18 pages.
 2. *Presentation-only papers*: describe work recently published or submitted. We see this as a way to provide additional access to important developments that the SAIV attendees may be unaware of.
 3. *Extended abstracts*: describe preliminary work in progress. These reports may range in length from very short to full papers, and will be judged based on the expected level of interest for the community.
 ​
