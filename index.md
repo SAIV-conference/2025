@@ -13,6 +13,6 @@ SAIV 2024 comprises the [5th International Verification of Neural Networks Compe
 
 <ul>
   <li>
-  The abstract deadline was extended to April 11.
+  The submission deadline was extended to April 18.
   </li>
 </ul>
