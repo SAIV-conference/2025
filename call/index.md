@@ -9,9 +9,8 @@ SAIV invites submissions presenting theoretical results, novel algorithms, tool 
 
 All dates are understood as [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth) (click a date for conversion to local time).
 
-- Abstract submission: <a href="https://time.is/compare/2359_11_Apr_2024_in_UTC-12/local">April 11</a> (extended)
-- Paper submission: <a href="https://time.is/compare/2359_11_Apr_2024_in_UTC-12/local">April 11</a>
-- Notification: <a href="https://time.is/compare/2359_09_May_2024_in_UTC-12/local">May 9</a>
+- Paper submission: <a href="https://time.is/compare/2359_18_Apr_2024_in_UTC-12/local">April 18</a> (extended)
+- Notification: <a href="https://time.is/compare/2359_13_May_2024_in_UTC-12/local">May 13</a> (extended)
 
 ## Topics
 
