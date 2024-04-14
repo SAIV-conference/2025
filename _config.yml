@@ -67,7 +67,7 @@ conference:
   navigation:
     logo:
       #name: Symposium on AI Verification
-      img: 'logo_small.png'
+      img: 'logo.svg'
       #url: ''
     links:
       - name: About
