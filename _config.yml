@@ -78,8 +78,8 @@ conference:
         relative_url: /committees/
       #- name: Program
         #relative_url: /program/
-      #- name: Talks
-        #relative_url: /talks/
+      - name: Talks
+        relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
       #- name: Location
@@ -163,10 +163,10 @@ conference:
     main_categories:
       - name: Keynote
         color: success
-      - name: Invited Talk
-        color: primary
-      - name: Contributed Talk
-        color: secondary
+      #- name: Invited Talk
+        #color: primary
+      #- name: Contributed Talk
+        #color: secondary
     ## Hide icons on talk overview page
     hide_icons: false
 
