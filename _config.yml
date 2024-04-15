@@ -158,19 +158,21 @@ conference:
       #duration: 300  # in seconds
       #pause:     10  # in seconds
 
-  #talks:
+  talks:
     ## Talk categories
-    #main_categories:
-      #- name: Cat A
-        #color: info
-      #- name: Cat B
-        #color: success
+    main_categories:
+      - name: Keynote
+        color: success
+      - name: Invited Talk
+        color: primary
+      - name: Contribute Talk
+        color: secondary
     ## Hide icons on talk overview page
-    #hide_icons: false
+    hide_icons: false
 
-  #speakers:
+  speakers:
     ## Show first and last name
-    #show_firstname: true
+    show_firstname: true
 
   #location:
     ## Disable links to locations
