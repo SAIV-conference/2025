@@ -78,8 +78,8 @@ conference:
         relative_url: /committees/
       #- name: Program
         #relative_url: /program/
-      #- name: Talks
-        #relative_url: /talks/
+      - name: Talks
+        relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
       #- name: Location
