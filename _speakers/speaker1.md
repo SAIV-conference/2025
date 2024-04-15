@@ -3,7 +3,11 @@ name: Clark Barrett
 first_name: Clark
 last_name: Barrett
 links:
-  - name: Profile
+  - name: Personal webpage
     absolute_url: https://theory.stanford.edu/~barrett/
 ---
-Automated Reasoning for AI Verification
+Stanford University
+
+*Research Interests*
+
+Automated reasoning; satisfiability modulo theories (SMT); formal methods; formal verification; verification of smart contracts; verification of neural networks; AI safety; hardware design productivity and verification. 
