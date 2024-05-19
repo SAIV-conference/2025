@@ -119,14 +119,14 @@ conference:
   main:
     logo:
         img: 'logo_full.svg'
-    #links:
+    links:
       #- name: Program
         #relative_url: /program/
       #- name: How to get there
         #relative_url: /location/
-      #- name: Tickets
-        #disabled: true
-        #absolute_url: ''
+      - name: Tickets
+        disabled: false
+        absolute_url: 'https://i-cav.org/2024/attending/'
 
   # Information boxes
   #info_bars:
