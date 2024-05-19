@@ -11,6 +11,6 @@ SAIV 2024 comprises the [5th International Verification of Neural Networks Compe
 
 <ul>
   <li>
-  The submission deadline was extended to April 18.
+  Registration is [open](https://i-cav.org/2024/attending/)! Early bird deadline is June 15, 2024.
   </li>
 </ul>
