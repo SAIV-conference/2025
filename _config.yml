@@ -163,8 +163,8 @@ conference:
     main_categories:
       - name: Keynote
         color: success
-      #- name: Invited Talk
-        #color: primary
+      - name: Invited Talk
+        color: primary
       #- name: Contributed Talk
         #color: secondary
     ## Hide icons on talk overview page
