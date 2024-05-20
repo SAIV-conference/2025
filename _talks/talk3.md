@@ -1,5 +1,5 @@
 ---
-name: Machine Learning for Combinatorial Optimisation
+name: Verification of Neuro-Symbolic Agents
 speakers:
   - Elena Botoeva 
 categories:
