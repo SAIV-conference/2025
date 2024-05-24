@@ -1,7 +1,7 @@
 ---
-name: Verification of Neuro-Symbolic Agents
+name: Automated Planning and Synthesis
 speakers:
-  - Elena Botoeva
+  - Shufang Zhu
 categories:
   - Invited Talk
   - Table Host

@@ -8,5 +8,5 @@ links:
 ---
 _**University of Oxford, The University of Liverpool**_
 
-<ins>Research Interests</ins>   
+<ins>Research Interests</ins>
 Artificial Intelligence; Formal Methods; Reactive Synthesis.
