@@ -1,7 +1,7 @@
 ---
-name: Verification of Neuro-Symbolic Agents
+name: TBA
 speakers:
-  - Elena Botoeva 
+  - Paolo Morettin
 categories:
   - Invited Talk
   - Table Host

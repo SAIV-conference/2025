@@ -1,12 +1,12 @@
 ---
-name: Elena Botoeva
-first_name: Elena
-last_name: Botoeva
+name: Paolo Morettin
+first_name: Paolo
+last_name: Morettin
 links:
   - name: Personal webpage
-    absolute_url: https://www.kent.ac.uk/computing/people/3838/botoeva-elena
+    absolute_url: https://paolomorettin.github.io/
 ---
-_**University of Kent**_
+_**University of Trento**_
 
-<ins>Research Interests</ins>   
-Machine learning for combinatorial optimisation; explanable AI; verification of AI.
+<ins>Research Interests</ins>
+Probabilistic {reasoning, learning} with {logical, algebraic} constraints.

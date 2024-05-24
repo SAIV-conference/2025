@@ -1,7 +1,7 @@
 ---
 name: Automated Reasoning for AI Verification
 speakers:
-  - Clark Barrett 
+  - Clark Barrett
 categories:
   - Keynote
   - Table Host

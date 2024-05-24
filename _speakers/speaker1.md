@@ -8,5 +8,5 @@ links:
 ---
 _**Stanford University**_
 
-<ins>Research Interests</ins>   
+<ins>Research Interests</ins>
 Automated reasoning; satisfiability modulo theories (SMT); formal methods; formal verification; verification of smart contracts; verification of neural networks; AI safety; hardware design productivity and verification.
