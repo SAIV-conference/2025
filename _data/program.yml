@@ -5,7 +5,7 @@ days:
   rooms:
   - name: Main Room
     talks:
-      - name: Automated Reasoning for AI Verification
+      - name: Verified Autonomy with Neural Lyapunov Barrier Certificates
         time_start: '9:00'
         time_end: '10:00'
       - name: "Chronosymbolic Learning: Efficient CHC Solving with Symbolic Reasoning and Inductive Learning"
