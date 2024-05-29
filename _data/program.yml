@@ -59,7 +59,7 @@ days:
       - name: TBA2
         time_start: '9:00'
         time_end: '9:30'
-      - name: Automated Planning and Synthesis
+      - name: Trustworthy-by-Design Autonomous AI Systems
         time_start: '9:30'
         time_end: '10:00'
       - name: Round-table discussion
