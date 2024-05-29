@@ -76,8 +76,8 @@ conference:
         relative_url: /call/
       - name: Committees
         relative_url: /committees/
-      #- name: Program
-        #relative_url: /program/
+      - name: Program
+        relative_url: /program/
       - name: Talks
         relative_url: /talks/
       - name: Speakers
@@ -120,8 +120,8 @@ conference:
     logo:
         img: 'logo_full.svg'
     links:
-      #- name: Program
-        #relative_url: /program/
+      - name: Program
+        relative_url: /program/
       #- name: How to get there
         #relative_url: /location/
       - name: Registration
@@ -161,12 +161,16 @@ conference:
   talks:
     ## Talk categories
     main_categories:
-      - name: Keynote
-        color: success
       - name: Invited Talk
+        color: success
+      - name: Presentation
         color: primary
-      #- name: Contributed Talk
-        #color: secondary
+      - name: VNN-COMP
+        color: info
+      - name: Discussion
+        color: warning
+      - name: Break
+        color: light
     ## Hide icons on talk overview page
     hide_icons: false
 
@@ -198,7 +202,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 15 # in minutes
+    time_steps: 30 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true

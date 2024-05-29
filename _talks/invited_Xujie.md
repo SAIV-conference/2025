@@ -1,7 +1,7 @@
 ---
-name: TBA
+name: TBA2
 speakers:
-  - Paolo Morettin
+  - Xujie Si
 categories:
   - Invited Talk
   - Table Host
