@@ -1,5 +1,5 @@
 ---
-name: Automated Planning and Synthesis
+name: Trustworthy-by-Design Autonomous AI Systems
 speakers:
   - Shufang Zhu
 categories:
