@@ -80,11 +80,11 @@ conference:
         relative_url: /program/
       - name: Talks
         relative_url: /talks/
-      - name: Speakers
+      - name: Speakers & Authors
         relative_url: /speakers/
       #- name: Location
         #relative_url: /location/
-      - name: Previous Editions
+      - name: Previous Events
         menu:
         #- name: SAIV 2024
           #relative_url: /2024/
