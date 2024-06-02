@@ -3,7 +3,7 @@ name: Clark Barrett
 first_name: Clark
 last_name: Barrett
 links:
-  - name: Personal webpage
+  - name: Personal web page
     absolute_url: https://theory.stanford.edu/~barrett/
 ---
 _**Stanford University**_

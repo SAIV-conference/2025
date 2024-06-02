@@ -3,7 +3,7 @@ name: Shufang Zhu
 first_name: Shufang
 last_name: Zhu
 links:
-  - name: Personal webpage
+  - name: Personal web page
     absolute_url: https://shufang-zhu.github.io/
 ---
 _**University of Oxford, University of Liverpool**_
