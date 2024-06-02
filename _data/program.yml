@@ -29,7 +29,7 @@ days:
       - name: Verification of Neuro-Symbolic Agents
         time_start: '14:00'
         time_end: '14:30'
-      - name: TBA1
+      - name: Towards Probabilistic Verification of AI Systems via Weighted Model Integration
         time_start: '14:30'
         time_end: '15:00'
       - name: Round-table discussion
@@ -56,7 +56,7 @@ days:
   rooms:
   - name: Main Room
     talks:
-      - name: TBA2
+      - name: TBA
         time_start: '9:00'
         time_end: '9:30'
       - name: Trustworthy-by-Design Autonomous AI Systems
