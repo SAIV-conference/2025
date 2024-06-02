@@ -8,5 +8,5 @@ links:
 ---
 _**University of Trento**_
 
-<ins>Research Interests</ins>
+<ins>Research Interests</ins>:
 Probabilistic {reasoning, learning} with {logical, algebraic} constraints.

@@ -8,5 +8,5 @@ links:
 ---
 _**University of Toronto, Vector Institute, Mila**_
 
-<ins>Research Interests</ins>
+<ins>Research Interests</ins>:
 Programming languages and AI.

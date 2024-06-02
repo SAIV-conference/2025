@@ -8,5 +8,5 @@ links:
 ---
 _**University of Kent**_
 
-<ins>Research Interests</ins>
+<ins>Research Interests</ins>:
 Machine learning for combinatorial optimisation; explanable AI; verification of AI.
