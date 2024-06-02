@@ -1,5 +1,5 @@
 ---
-name: TBA2
+name: TBA
 speakers:
   - Xujie Si
 categories:
