@@ -56,7 +56,7 @@ days:
   rooms:
   - name: Main Room
     talks:
-      - name: TBA
+      - name: "Machine Learning Meets Program Reasoning: Opportunities and Challenges"
         time_start: '9:00'
         time_end: '9:30'
       - name: Trustworthy-by-Design Autonomous AI Systems
