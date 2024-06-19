@@ -26,7 +26,7 @@ days:
       - name: Lunch
         time_start: '12:30'
         time_end: '14:00'
-      - name: Verification of Neuro-Symbolic Agents
+      - name: Verification of Neuro-Symbolic Multi-Agent Systems
         time_start: '14:00'
         time_end: '14:30'
       - name: Towards Probabilistic Verification of AI Systems via Weighted Model Integration
