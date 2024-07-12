@@ -8,4 +8,4 @@ The 7th SAIV will be co-located with the [36th International Conference on Compu
 SAIV 2024 comprises the [5th International Verification of Neural Networks Competition (VNN-COMP'24)](https://sites.google.com/view/vnn2024).
 
 ### News
-  Registration is [open](https://i-cav.org/2024/attending/)!
+  The electronic proceedings are [available here](https://link.springer.com/book/978-3-031-65112-0).
