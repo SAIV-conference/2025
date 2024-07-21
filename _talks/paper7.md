@@ -8,6 +8,7 @@ speakers:
 categories:
   - Presentation
   - Paper
+  - "Chair: Ekaterina Komendantskaya"
 ---
 
 ### Abstract

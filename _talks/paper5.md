@@ -7,6 +7,7 @@ speakers:
 categories:
   - Presentation
   - Paper
+  - "Chair: Christopher Brix"
 ---
 
 ### Abstract

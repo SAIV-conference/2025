@@ -5,6 +5,7 @@ speakers:
   - Adnan Darwiche
 categories:
   - Presentation
+  - "Chair: Ravi Mangal"
 ---
 
 ### Abstract

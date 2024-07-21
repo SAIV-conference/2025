@@ -6,6 +6,7 @@ speakers:
   - André Platzer
 categories:
   - Presentation
+  - "Chair: Yuval Shapira"
 ---
 
 ### Abstract

@@ -5,6 +5,7 @@ speakers:
 categories:
   - Invited Talk
   - Keynote
+  - "Chair: Mirco Giacobbe"
 ---
 
 ### Abstract

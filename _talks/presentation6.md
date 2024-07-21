@@ -8,6 +8,7 @@ speakers:
   - Guy Katz
 categories:
   - Presentation
+  - "Chair: Yuval Shapira"
 ---
 
 ### Abstract

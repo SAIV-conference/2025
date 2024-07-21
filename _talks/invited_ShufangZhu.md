@@ -5,6 +5,7 @@ speakers:
 categories:
   - Invited Talk
   - Table Host
+  - "Chair: Taylor Johnson"
 ---
 
 ### Abstract

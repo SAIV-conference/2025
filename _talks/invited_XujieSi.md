@@ -5,6 +5,7 @@ speakers:
 categories:
   - Invited Talk
   - Table Host
+  - "Chair: Taylor Johnson"
 ---
 
 Program reasoning is the central challenge in programming languages and formal methods research. The field has been largely driven by manually designed frameworks, heavily engineered symbolic solvers, and endless heuristics inspired by various domain expertise.

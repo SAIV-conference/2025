@@ -6,6 +6,7 @@ speakers:
   - Gagandeep Singh
 categories:
   - Presentation
+  - "Chair: Yuval Shapira"
 ---
 
 ### Abstract
