@@ -6,6 +6,7 @@ speakers:
 categories:
   - Presentation
   - Paper
+  - "Chair: Mirco Giacobbe"
 ---
 
 ### Abstract

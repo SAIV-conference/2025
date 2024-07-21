@@ -6,6 +6,7 @@ speakers:
   - Marta Kwiatkowska
 categories:
   - Presentation
+  - "Chair: Ravi Mangal"
 ---
 
 ### Abstract

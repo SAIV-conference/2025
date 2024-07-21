@@ -6,6 +6,7 @@ speakers:
 categories:
   - Presentation
   - Abstract
+  - "Chair: Andoni Rodriguez"
 ---
 
 ### Abstract

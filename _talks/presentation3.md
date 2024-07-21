@@ -20,6 +20,7 @@ speakers:
   - Clark Barrett
 categories:
   - Presentation
+  - "Chair: Christopher Brix"
 ---
 
 ### Abstract

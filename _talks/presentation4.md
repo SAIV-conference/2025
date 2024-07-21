@@ -7,6 +7,7 @@ speakers:
   - Dana Drachsler-Cohen
 categories:
   - Presentation
+  - "Chair: Andoni Rodriguez"
 ---
 
 ### Abstract
