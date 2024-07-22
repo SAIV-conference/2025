@@ -5,7 +5,8 @@ speakers:
   - Adnan Darwiche
 categories:
   - Presentation
-  - "Chair: Ravi Mangal"
+  - "Chair: Yuval Shapira"
+  - "Changed Time Slot"
 ---
 
 ### Abstract
