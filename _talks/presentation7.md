@@ -6,7 +6,8 @@ speakers:
   - André Platzer
 categories:
   - Presentation
-  - "Chair: Yuval Shapira"
+  - "Chair: Ravi Mangal"
+  - "Changed Time Slot"
 ---
 
 ### Abstract
