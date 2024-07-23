@@ -24,3 +24,5 @@ based verification strategy. We present the viability of our strategy
 by deploying the Marabou verification framework and
 applying it to verify the robustness properties of the neural network used
 in the next-generation airborne collision avoidance system for unmanned aircraft (ACAS Xu).
+
+[→ Link to recording](https://drive.google.com/file/d/1BxLGdvTqMuDl9c9RYvNxwJW_YFOoT_cZ/view?usp=sharing)
