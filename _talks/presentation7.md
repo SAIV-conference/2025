@@ -7,7 +7,6 @@ speakers:
 categories:
   - Presentation
   - "Chair: Ravi Mangal"
-  - "Changed Time Slot"
 ---
 
 ### Abstract

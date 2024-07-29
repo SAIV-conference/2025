@@ -6,7 +6,6 @@ speakers:
 categories:
   - Presentation
   - "Chair: Yuval Shapira"
-  - "Changed Time Slot"
 ---
 
 ### Abstract
