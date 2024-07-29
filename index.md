@@ -6,10 +6,3 @@ The goal of the Symposium on AI Verification is to bring together researchers fr
 
 The 7th SAIV will be co-located with the [36th International Conference on Computer Aided Verification](http://i-cav.org/2024/) and take place in Montreal, Canada on July 22–23, 2024.
 SAIV 2024 comprises the [5th International Verification of Neural Networks Competition (VNN-COMP'24)](https://sites.google.com/view/vnn2024).
-
-### News
-  There is an update to the program:
-  * The paper *Provably Safe Neural Network Controllers via Differential Dynamic Logic* will be presented on Monday at 11:30.
-  * The paper *Generating Explanations for Decisions of Classifiers using Instance Abstractions* will be presented on Tuesday at 17:30.
-
-  The electronic proceedings are [available here](https://link.springer.com/book/978-3-031-65112-0).
