@@ -124,9 +124,9 @@ conference:
         relative_url: /program/
       #- name: How to get there
         #relative_url: /location/
-      - name: Registration
-        disabled: false
-        absolute_url: 'https://i-cav.org/2024/attending/'
+      #- name: Registration
+        #disabled: false
+        #absolute_url: 'https://i-cav.org/2024/attending/'
       - name: Proceedings
         disabled: false
         absolute_url: 'https://link.springer.com/book/978-3-031-65112-0'
