@@ -1,9 +1,9 @@
-title: SAIV 2024
+title: SAIV 2025
 #preposition: at
 description: >-
-  The 7th International Symposium on AI Verification in Montreal on July 22–23, 2024
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+  The Second International Symposium on AI Verification in Zagreb on July 21–22, 2025
+baseurl: /2025 # the subpath of your site, e.g. /blog
+url: "https://www.aiverification.org" # the base hostname & protocol for your site, e.g. https://example.com
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
@@ -66,28 +66,30 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      #name: Symposium on AI Verification
+      name: SAIV
       img: 'logo.svg'
       #url: ''
     links:
       - name: About
         relative_url: /about/
-      - name: Call for Papers
-        relative_url: /call/
+      #- name: Call for Papers
+      #  relative_url: /call/
       - name: Committees
         relative_url: /committees/
-      - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
-      - name: Speakers & Authors
-        relative_url: /speakers/
+      #- name: Program
+      #  relative_url: /program/
+      #- name: Talks
+      #  relative_url: /talks/
+      #- name: Speakers & Authors
+      #  relative_url: /speakers/
       #- name: Location
         #relative_url: /location/
-      - name: Previous Events
+      - name: Editions
         menu:
-        #- name: SAIV 2024
-          #relative_url: /2024/
+        - name: SAIV 2025
+          disabled: true
+        - name: SAIV 2024
+          absolute_url: /2024
         - name: FoMLAS 2023
           absolute_url: 'https://fomlas2023.wixsite.com/fomlas2023'
         - name: WOLVERINE 2023
@@ -120,17 +122,7 @@ conference:
     logo:
         img: 'logo_full.svg'
     links:
-      - name: Program
-        relative_url: /program/
-      #- name: How to get there
-        #relative_url: /location/
-      #- name: Registration
-        #disabled: false
-        #absolute_url: 'https://i-cav.org/2024/attending/'
-      - name: Proceedings
-        disabled: false
-        absolute_url: 'https://link.springer.com/book/978-3-031-65112-0'
-
+        
   # Information boxes
   #info_bars:
   #  - title: Welcome to the Conference Theme for Jekyll!
