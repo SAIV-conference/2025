@@ -2,7 +2,8 @@
 layout: home
 ---
 
-The goal of the *Symposium on AI Verification* is to bring together researchers from the communities on formal methods and artificial intelligence. Formal reasoning about learning-based systems raises novel, challenging, and exciting problems, such as the verification of learning-based components and the verification and synthesis of neuro-symbolic systems. SAIV aims to serve as a platform for idea exchange and cross-pollination on these topics.
+Formal reasoning about learning systems presents novel, challenging, and exciting problems, including the verification of neural networks and the development of safeguards for machine learning algorithms. The Symposium on AI Verification aims to bring together researchers from the fields of formal methods and artificial intelligence, providing a platform for the exchange of ideas and cross-pollination of insights on these critical areas.
 
-SAIV 2024 was co-located with the [36th International Conference on Computer Aided Verification](http://i-cav.org/2024/) and took place in Montreal, Canada on July 22–23, 2024.
-SAIV 2024 comprised the [5th International Verification of Neural Networks Competition (VNN-COMP'24)](https://sites.google.com/view/vnn2024).
+SAIV 2025 will be co-located with the [37th International Conference on Computer Aided Verification](https://conferences.i-cav.org/2025/) in Zagreb, Croatia.
+
+SAIV 2025 will host the *6th International Verification of Neural Networks Competition (VNN-COMP'25)*.
