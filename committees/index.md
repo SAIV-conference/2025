@@ -12,8 +12,9 @@ title: Committees
 
 - [Alessandro Abate](https://www.cs.ox.ac.uk/people/alessandro.abate/) (University of Oxford)
 - [Luca Arnaboldi](http://arnaboldiluca.eu) (University of Birmingham)
+- [Guy Avni](https://sites.google.com/view/gavni) (University of Haifa)
 - [Stanley Bak](https://stanleybak.com) (Stony Brook University)
-- [Clarke Barrett](https://theory.stanford.edu/~barrett/) (Stanford University)
+- [Clark Barrett](https://theory.stanford.edu/~barrett/) (Stanford University)
 - [Elena Botoeva](https://www.kent.ac.uk/school-of-computing/people/3838/botoeva-elena) (University of Kent)
 - [Dana Drachsler Cohen](https://ddana.net.technion.ac.il) (Technion)
 - [Hoang Dung Tran](https://avrlab.unl.edu/person/dung-hoang-tran/) (University of Nebraska)
