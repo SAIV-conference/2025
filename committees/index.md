@@ -26,7 +26,7 @@ title: Committees
 - [Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/) (Imperial College London)
 - [Kaushik Mallik](https://kmallik.github.io) (IMDEA)
 - [Ravi Mangal](https://www.cs.colostate.edu/ravimangal/) (Colorado State University)
-- Edoardo Manino (University of Manchester)
+- [Edoardo Manino](https://research.manchester.ac.uk/en/persons/edoardo-manino) (University of Manchester)
 - [Daniel Neider](https://researchers.rc-trust.ai/neider/) (TU Dortmund University)
 - [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html) (Carnegie Mellon University)
 - [Guillermo Perez](https://www.uantwerpen.be/en/staff/guillermoalberto-perez/) (University of Antwerp)
