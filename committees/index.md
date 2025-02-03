@@ -20,6 +20,7 @@ title: Committees
 - [Hoang Dung Tran](https://avrlab.unl.edu/person/dung-hoang-tran/) (University of Nebraska)
 - [Vijay Ganesh](https://vganesh1.github.io) (Georgia Tech)
 - [Thomas Henzinger](https://pub.ista.ac.at/~tah/) (Institute of Science and Technology Austria)
+- [Taylor T. Johnson](http://www.taylortjohnson.com/) (Vanderbilt University)
 - [Guy Katz](https://www.katz-lab.com) (Hebrew University of Jerusalem)
 - [Bettina Könighofer](https://www.isec.tugraz.at/person/bettina-koenighofer/) (TU Graz)
 - [Ekaterina Komendantskaya](https://www.southampton.ac.uk/people/62r7bw/professor-ekaterina-komendantskaya) (University of Southampton)

@@ -48,4 +48,4 @@ SAIV 2025 uses a **single-blind** policy, so submissions need not be anonymized.
 
 We require to use of the [LNCS template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). All papers conforming to the submission guidelines will be peer-reviewed by members of the program committee. Submissions will be evaluated on the basis of originality, importance of contribution, soundness, quality of presentation, and appropriate comparison to related work.
 
-Papers selected for publications will appear in conference proceedings.
+Papers selected for publications will appear in the SAIV 2025 conference proceedings in the LNCS series.
