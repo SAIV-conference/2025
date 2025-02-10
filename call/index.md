@@ -19,30 +19,31 @@ The topics covered by SAIV include, but are not limited to, the following:
 
 ##### Formal methods for artificial intelligence
 
-- Formal specifications for systems with AI components
-- Formal methods for analyzing systems with AI components
-- Formal synthesis methods of AI components
+- Safety specifications for systems with learning components
+- Symbolic analysis of cyber-physical systems with AI components
+- Formal verification of neural networks
+- Neuro-symbolic reasoning for AI safety
 - Testing approaches for systems with AI components
-- Statistical approaches for analyzing systems with AI components
-- Approaches for enhancing the explainability of systems with AI components
+- Formal guarantees for interpretable AI
 
 ##### Artificial intelligence for formal methods
 
-- AI methods for formal verification
-- AI methods for formal synthesis
-- AI methods for safe control
-- AI methods for falsification
+- Machine Learning for program synthesis and control synthesis
+- Machine Learning for automated reasoning and theorem-proving
+- Statistical approaches to falsification and verification
+- Data-driven verification 
+- Differentiable proof certificates
 
 ## Submission Guidelines
 
 ###### [→ OpenReview submission website](https://openreview.net/group?id=aiverification.org/SAIV/2025/Symposium&referrer=%5BHomepage%5D(%2F))
 
-We invite three categories of submissions:
+We invite four categories of submissions:
 
 1. *Original papers*: describe original research and sufficient detail to assess the merits and relevance of the submission. For papers reporting experimental results, authors are strongly encouraged to make their data available. We welcome both short and long papers. There are no strict page limits, although we recommend not going below 6 pages and not exceeding 18 pages.
 2. *Presentation-only papers*: describe work recently published or submitted. We see this as a way to provide additional access to important developments that the SAIV attendees may be unaware of.
 3. *Extended abstracts*: describe preliminary work in progress. These reports may range in length from very short to full papers, and will be judged based on the expected level of interest for the community.
-​
+4. *Benchmarks and Case Studies*: showcasing practical evaluations, real-world applications, or lessons learned in verifying and deploying safety-critical AI systems, focusing on metrics, methodologies, and safety outcomes.​
 
 SAIV 2025 uses a **single-blind** policy, so submissions need not be anonymized.
 
