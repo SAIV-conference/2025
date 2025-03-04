@@ -6,7 +6,7 @@ Formal reasoning about learning systems presents novel, challenging, and excitin
 
 SAIV 2025 will be co-located with the [37th International Conference on Computer Aided Verification](https://conferences.i-cav.org/2025/) in Zagreb, Croatia.
 
-SAIV 2025 will host the *6th International Verification of Neural Networks Competition (VNN-COMP'25)*.
+SAIV 2025 will host the [6th International Verification of Neural Networks Competition (VNN-COMP'25)](https://sites.google.com/view/vnn2025).
 
 ## Important Dates
 
