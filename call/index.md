@@ -45,7 +45,9 @@ We invite four categories of submissions:
 3. *Extended abstracts*: describe preliminary work in progress. These reports may range in length from very short to full papers, and will be judged based on the expected level of interest for the community.
 4. *Benchmarks and Case Studies*: showcasing practical evaluations, real-world applications, or lessons learned in verifying and deploying safety-critical AI systems, focusing on metrics, methodologies, and safety outcomes.​
 
-SAIV 2025 uses a **single-blind** policy, so submissions need not be anonymized.
+SAIV 2025 uses a **single-blind** policy, so submissions need not be anonymized. For the submission, we require to clearly indicate in the title of the paper whether it is a presentation only, an extended abstract, or a case study, i.e., “My Latest Result (Presentation Only)”, “My Ongoing Work (Extended Abstract)”, "My New Benchmark (Case Study)", whereas original research papers should be submitted with no need for explicit indication.
+
+
 
 We require to use of the [LNCS template](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). All papers conforming to the submission guidelines will be peer-reviewed by members of the program committee. Submissions will be evaluated on the basis of originality, importance of contribution, soundness, quality of presentation, and appropriate comparison to related work.
 
