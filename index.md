@@ -12,7 +12,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 
 All dates are 11:59AM (noon) UTC 
 
-- Abstract Registration:  <a href="https://time.is/compare/1159_17_Apr_2025_in_UTC/local">April 17</a>
-- Paper Submission: <a href="https://time.is/compare/1159_24_Apr_2025_in_UTC/local">April 24</a>
-- Notification: <a href="https://time.is/compare/1159_21_May_2025_in_UTC/local">May 21</a>
+- Abstract Registration:  <s>April 17</s> <a href="https://time.is/compare/1159_23_Apr_2025_in_UTC/local">April 23</a>
+- Paper Submission: <s>April 24</s> <a href="https://time.is/compare/1159_30_Apr_2025_in_UTC/local">April 30</a>
+- Notification: <s>May 21</s> <a href="https://time.is/compare/1159_27_May_2025_in_UTC/local">May 27</a>
 
