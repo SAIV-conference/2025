@@ -8,11 +8,29 @@ SAIV 2025 will be co-located with the [37th International Conference on Computer
 
 SAIV 2025 will host the [6th International Verification of Neural Networks Competition (VNN-COMP'25)](https://sites.google.com/view/vnn2025).
 
-## Important Dates
+## Invited Speakers and Round Tables
 
-All dates are 11:59AM (noon) UTC 
+[Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"}
 
-- Abstract Registration:  <s>April 17</s> <a href="https://time.is/compare/1159_23_Apr_2025_in_UTC/local">April 23</a>
-- Paper Submission: <s>April 24</s> <a href="https://time.is/compare/1159_30_Apr_2025_in_UTC/local">April 30</a>
-- Notification: <s>May 21</s> <a href="https://time.is/compare/1159_27_May_2025_in_UTC/local">May 27</a>
+	*Neuro-Symbolic and Generative AI*
+
+[Guillermo Perez](https://gaperez64.github.io/){:target="_blank"}
+	
+	*Decidable Problems for Partially Observable MDPs*
+
+[Luca Arnaboldi](http://www.arnaboldiluca.eu/){:target="_blank"}
+	
+	*Formal Methods for Natural Language Processing*
+
+[Andreea Costea](https://andrecostea.github.io){:target="_blank"}
+
+	*Assured Automatic Programming via LLMs*
+
+[Masaki Waga](https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/){:target="_blank"}
+
+	*Soft Pattern Matching: Toward Runtime Verification of NLP Systems*
+
+[Nora Ammann](https://nora-ammann.replit.app/){:target="_blank"}
+
+	*Safeguarded AI: Funding Opportunities*
 
