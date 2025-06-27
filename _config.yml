@@ -82,8 +82,8 @@ conference:
         relative_url: /talks/
       - name: Speakers & Authors
         relative_url: /speakers/
-      #- name: Location
-        #relative_url: /location/
+      - name: Location
+        relative_url: /location/
       - name: Editions
         menu:
         - name: SAIV 2025
@@ -122,8 +122,19 @@ conference:
     logo:
         img: 'logo_full.svg'
     links:
-      - name: Call for Papers
-        relative_url: /call/
+      #- name: Call for Papers
+      #  relative_url: /call/
+      - name: Program
+        relative_url: /program/
+      - name: How to get there
+        relative_url: /location/
+      - name: Registration
+        disabled: false
+        absolute_url: 'https://conferences.i-cav.org/2025/registration/'
+      #- name: Proceedings
+      #  disabled: false
+      #  absolute_url: 'https://link.springer.com/book/978-3-031-65112-0'
+
 
   # Information boxes
   #info_bars:
