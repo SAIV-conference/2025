@@ -10,27 +10,21 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 
 ## Invited Speakers and Round Tables
 
-[Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"}
+[Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"} (Imperial-X, London, UK)
+	Neuro-Symbolic and Generative AI
 
-	*Neuro-Symbolic and Generative AI*
+[Guillermo Perez](https://gaperez64.github.io/){:target="_blank"} (University of Antwerp, Belgium)
+	Decidable Problems for Partially Observable MDPs
 
-[Guillermo Perez](https://gaperez64.github.io/){:target="_blank"}
-	
-	*Decidable Problems for Partially Observable MDPs*
+[Luca Arnaboldi](http://www.arnaboldiluca.eu/){:target="_blank"} (University of Birmingham, UK)
+	Formal Methods for Natural Language Processing
 
-[Luca Arnaboldi](http://www.arnaboldiluca.eu/){:target="_blank"}
-	
-	*Formal Methods for Natural Language Processing*
+[Andreea Costea](https://andrecostea.github.io){:target="_blank"} (TU Delft, The Netherlands)
+	Assured Automatic Programming via LLMs
 
-[Andreea Costea](https://andrecostea.github.io){:target="_blank"}
+[Masaki Waga](https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/){:target="_blank"} (Kyoto University, Japan)
+	Soft Pattern Matching: Toward Runtime Verification of NLP Systems
 
-	*Assured Automatic Programming via LLMs*
-
-[Masaki Waga](https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/){:target="_blank"}
-
-	*Soft Pattern Matching: Toward Runtime Verification of NLP Systems*
-
-[Nora Ammann](https://nora-ammann.replit.app/){:target="_blank"}
-
-	*Safeguarded AI: Funding Opportunities*
+[Nora Ammann](https://nora-ammann.replit.app/){:target="_blank"} (UK's Advanced Research and Invention Agency)
+	Safeguarded AI: Funding Opportunities
 
