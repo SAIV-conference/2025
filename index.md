@@ -11,20 +11,20 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 ## Invited Speakers and Round Tables
 
 [Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"} (Imperial-X, London, UK)
-	Neuro-Symbolic and Generative AI
+	_Neuro-Symbolic and Generative AI_
 
 [Guillermo Perez](https://gaperez64.github.io/){:target="_blank"} (University of Antwerp, Belgium)
-	Decidable Problems for Partially Observable MDPs
+	_Decidable Problems for Partially Observable MDPs_
 
 [Luca Arnaboldi](http://www.arnaboldiluca.eu/){:target="_blank"} (University of Birmingham, UK)
-	Formal Methods for Natural Language Processing
+	_Formal Methods for Natural Language Processing_
 
 [Andreea Costea](https://andrecostea.github.io){:target="_blank"} (TU Delft, The Netherlands)
-	Assured Automatic Programming via LLMs
+	_Assured Automatic Programming via LLMs_
 
 [Masaki Waga](https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/){:target="_blank"} (Kyoto University, Japan)
-	Soft Pattern Matching: Toward Runtime Verification of NLP Systems
+	_Soft Pattern Matching: Toward Runtime Verification of NLP Systems_
 
 [Nora Ammann](https://nora-ammann.replit.app/){:target="_blank"} (UK's Advanced Research and Invention Agency)
-	Safeguarded AI: Funding Opportunities
+	_Safeguarded AI: Funding Opportunities_
 
