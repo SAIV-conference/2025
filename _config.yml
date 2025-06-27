@@ -76,12 +76,12 @@ conference:
         relative_url: /call/
       - name: Committees
         relative_url: /committees/
-      #- name: Program
-      #  relative_url: /program/
-      #- name: Talks
-      #  relative_url: /talks/
-      #- name: Speakers & Authors
-      #  relative_url: /speakers/
+      - name: Program
+        relative_url: /program/
+      - name: Talks
+        relative_url: /talks/
+      - name: Speakers & Authors
+        relative_url: /speakers/
       #- name: Location
         #relative_url: /location/
       - name: Editions
@@ -175,24 +175,24 @@ conference:
     ## Show first and last name
     show_firstname: true
 
-  #location:
+  location:
     ## Disable links to locations
-    #hide: true
+    hide: true
     ## URL of location / room overview page
-    #url: '/location'
+    url: '/location'
     ## Main page title shown on location/room navigation bar
-    #navbar_title: 'Location'
+    navbar_title: 'Location'
     ## Show map on location main page.  Set `map: false` if you don't want to
     ## display it.
-    #map:
+    map:
       ## Initial map center point
-      #home_coord: 45.4023, -73.4683
+      home_coord: 45.801678, 15.973169
       ## Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
       ## The following do match the Bootstrap design not too badly:
       ##   - Thunderforest.Neighbourhood
       ##   - Esri.WorldTopoMap
-      #map_provider: "OpenStreetMap.Mapnik"
-      #default_zoom: 17
+      map_provider: "OpenStreetMap.Mapnik"
+      default_zoom: 17
 
   program:
     # URL of program page
@@ -202,4 +202,4 @@ conference:
     time_steps: 30 # in minutes
 
     # Show intermediary time steps (next to full hours)
-    show_alltimes: true
+    show_alltimes: false
