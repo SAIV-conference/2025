@@ -13,24 +13,33 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-<img height="500px" class="center-block" src="assets/images/speaker1.png">
+<img height="100px" class="center-block" src="assets/images/speaker1.png">
+<img height="100px" class="right-block" src="assets/images/speaker2.png">
+<img height="100px" class="left-block" src="assets/images/speaker3.png">
+<img height="100px" class="top-block" src="assets/images/speaker4.png">
+<img height="100px" class="bottom-block" src="assets/images/speaker5.png">
 
 </div>
 <div class="col-md-6" markdown="1">
 
 [Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"} (Imperial-X, London, UK)
-	_Neuro-Symbolic and Generative AI_
-
+<br />
+&emsp;_Neuro-Symbolic and Generative AI_
+<br />
 [Guillermo Perez](https://gaperez64.github.io/){:target="_blank"} (University of Antwerp, Belgium)
-	_Decidable Problems for Partially Observable MDPs_
-
+<br />
+&emsp;_Decidable Problems for Partially Observable MDPs_
+<br />
 [Luca Arnaboldi](http://www.arnaboldiluca.eu/){:target="_blank"} (University of Birmingham, UK)
-	_Formal Methods for Natural Language Processing_
-
+<br />
+&emsp;_Formal Methods for Natural Language Processing_
+<br />
 [Andreea Costea](https://andrecostea.github.io){:target="_blank"} (TU Delft, The Netherlands)
-	_Assured Automatic Programming via LLMs_
-
+<br />
+&emsp;_Assured Automatic Programming via LLMs_
+<br />
 [Masaki Waga](https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/){:target="_blank"} (Kyoto University, Japan)
-	_Soft Pattern Matching: Toward Runtime Verification of NLP Systems_
+<br />
+&emsp;_Soft Pattern Matching: Toward Runtime Verification of NLP Systems_
 
 
