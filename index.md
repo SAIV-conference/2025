@@ -10,6 +10,14 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 
 ## Invited Speakers and Round Tables
 
+<div class="row">
+<div class="col-md-6" markdown="1">
+
+<img height="500px" class="center-block" src="assets/images/speaker1.png">
+
+</div>
+<div class="col-md-6" markdown="1">
+
 [Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"} (Imperial-X, London, UK)
 	_Neuro-Symbolic and Generative AI_
 
