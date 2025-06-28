@@ -25,6 +25,4 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 [Masaki Waga](https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/){:target="_blank"} (Kyoto University, Japan)
 	_Soft Pattern Matching: Toward Runtime Verification of NLP Systems_
 
-[Nora Ammann](https://nora-ammann.replit.app/){:target="_blank"} (UK's Advanced Research and Invention Agency)
-	_Safeguarded AI: Funding Opportunities_
 
