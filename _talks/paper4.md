@@ -1,5 +1,5 @@
 ---
-name: "ClassInvGen: Class Invariant Synthesis using Large Language Models"
+name: "(Hybrid) ClassInvGen: Class Invariant Synthesis using Large Language Models"
 speakers:
   - Chuyue Sun
   - Saikat Chakraborty
