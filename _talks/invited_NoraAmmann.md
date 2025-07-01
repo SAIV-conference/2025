@@ -1,5 +1,5 @@
 ---
-name: "Safeguarded AI: Funding Opportunities"
+name: "(Hybrid) Safeguarded AI: Funding Opportunities"
 speakers:
   - Nora Ammann
 categories:

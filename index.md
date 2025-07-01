@@ -69,7 +69,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
       <img src="assets/images/nora.jpg" alt="Nora Ammann" width="100" height="100">
     </td>
     <td>
-      <a href="https://nora-ammann.replit.app/" target="_blank"><b>Nora Ammann</b></a><br>
+      <a href="https://nora-ammann.replit.app/" target="_blank"><b>Nora Ammann</b></a> (Advanced Research and Invention Agency, UK)<br>
       <em>Safeguarded AI: Funding Opportunities</em>
     </td>
   </tr>
