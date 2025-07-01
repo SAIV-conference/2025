@@ -10,7 +10,7 @@ categories:
   - "Chair: Mirco Giacobbe"
 links:
   - name: Paper
-    file: /proceedings/paper1.pdf
+    file: paper1.pdf
 ---
 
 ### Abstract
