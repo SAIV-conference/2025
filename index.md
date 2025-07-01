@@ -13,14 +13,9 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-<img height="500px" class="center-block" src="assets/images/speakers.png">
-
-</div>
-<div class="col-md-6" markdown="1">
-
 <img src="assets/images/eleonora.jpg" alt="Eleonora Giunchiglia" width="40" height="40" style="vertical-align:middle; margin-right:8px;">
 [Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"} (Imperial-X, London, UK)  
-&emsp;_Neuro-Symbolic and Generative AI_
+_Neuro-Symbolic and Generative AI_
 <br />
 [Guillermo Perez](https://gaperez64.github.io/){:target="_blank"} (University of Antwerp, Belgium)
 <br />
@@ -41,5 +36,10 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 [Nora Ammann](https://nora-ammann.replit.app/)
 <br />
 &emsp;_Safeguarded AI: Funding Opportunities_
+
+</div>
+<div class="col-md-6" markdown="1">
+
+<img height="500px" class="center-block" src="assets/images/speakers.png">
 
 
