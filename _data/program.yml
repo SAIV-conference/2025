@@ -14,7 +14,7 @@ days:
       - name: Round-table discussion
         time_start: '10:00'
         time_end: '10:30'
-      - name: Coffee break
+      - name: Coffee/Tea & Posters
         time_start: '10:30'
         time_end: '11:00'
       - name: "(Hybrid) Bridging Neural ODE and ResNet: A Formal Error Bound for Safety Verification"
@@ -39,7 +39,7 @@ days:
       - name: Round-table discussion
         time_start: '15:00'
         time_end: '15:30'
-      - name: Coffee break
+      - name: Coffee/Tea & Posters
         time_start: '15:30'
         time_end: '16:00'
       - name: "ClassInvGen: Class Invariant Synthesis using Large Language Models"
@@ -63,10 +63,10 @@ days:
       - name: Round-table discussion
         time_start: '10:00'
         time_end: '10:30'
-      - name: Coffee break
+      - name: Coffee/Tea & Posters
         time_start: '10:30'
         time_end: '11:00'
-      - name: "(Hybrid) GRENA: GPU-aided Abstract Refinement for Neural Network Verification"
+      - name: Abstraction-Based Proof Production in Formal Verification of Neural Networks
         time_start: '11:00'
         time_end: '11:20'
       - name: "Robustness Margin: A new measure for the robustness of neural networks"
@@ -84,13 +84,13 @@ days:
       - name: Certified Error Analysis of Homomorphically Encrypted Neural Networks
         time_start: '14:30'
         time_end: '14:50'
-      - name: Abstraction-Based Proof Production in Formal Verification of Neural Networks
+      - name: "(Hybrid) GRENA: GPU-aided Abstract Refinement for Neural Network Verification"
         time_start: '14:50'
         time_end: '15:10'
       - name: Probabilistic verification of neural networks with sampling-based Probability Box propagation
         time_start: '15:10'
         time_end: '15:30'
-      - name: Coffee break
+      - name: Coffee/Tea & Posters
         time_start: '15:30'
         time_end: '16:00'
       - name: How to Verify Generalization Capability of a Neural Network with Formal Methods

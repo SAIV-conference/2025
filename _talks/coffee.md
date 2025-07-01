@@ -1,7 +1,7 @@
 ---
-name: Coffee break
+name: Coffee/Tea & Posters
 speakers:
 categories:
-  - Break
+  - Posters
 hide: true
 ---
