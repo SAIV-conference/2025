@@ -26,9 +26,10 @@ days:
       - name: Scenario-based Compositional Verification of Autonomous Systems
         time_start: '11:40'
         time_end: '12:00'
-      - name: 🍴Lunch
+      - name: Lunch
         time_start: '12:00'
         time_end: '14:00'
+        icon: "fas fa-utensils"
       - name: "Soft Pattern Matching: Toward Runtime Verification of NLP Systems"
         time_start: '14:00'
         time_end: '14:30'
