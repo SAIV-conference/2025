@@ -1,8 +1,9 @@
 ---
-name: "CTRAIN - A Training Library for Certifiably Robust Neural Networks"
+name: "Certified Error Analysis of Homomorphically Encrypted Neural Networks"
 speakers:
-  - Konstantin Kaulen
-  - Holger Hoos  
+  - Philipp Daniel Kern
+  - Edoardo Manino
+  - Carsten Sinz  
 categories:
   - Presentation
   - Paper
@@ -14,4 +15,4 @@ links:
 
 ### Abstract
 
-Despite their widespread success, neural networks are susceptible to adversarial examples, severely limiting their responsible deployment in safety-critical scenarios. To address this, neural network verification techniques have been proposed that rigorously prove the robustness of a given network against specific threats. However, the scalability of these methods remains a major challenge, with networks trained for empirical robustness still proving difficult to verify. Thus, certified training has been proposed to produce networks more amenable to formal robustness verification. However, there is currently no comprehensive framework allowing easy access to these training methods. To address this, we introduce CTRAIN, a new Python library built upon the auto_LiRPA package, which reimplements state-of-the-art certified training methods in a unified, modular and comprehensive manner, while offering user-friendly interfaces, enhancing accessibility for both researchers and practitioners. Additionally, CTRAIN integrates SMAC3 for hyperparameter optimisation and αβ-CROWN for complete verification, empowering users to exploit these systems to achieve state-of-the-art certified robustness. We provide code, documentation, examples and usage instructions at github.com/ada-research/CTRAIN.
+Fully-Homomorphic Encryption (FHE) has been touted as the ultimate solution for preserving user data privacy in Machine Learning as a Service (MLaaS) applications. Under this scheme, the server never sees the user data in clear, but executes the ML model on encrypted data instead. Unfortunately, efficient FHE schemes only support addition and multiplication operations, which cannot exactly represent common activation functions in neural networks. Substituting activation functions with polynomial approximations may cause significant output deviations. In this paper, we propose ZonoPoly, an efficient algorithm to compute guaranteed bounds on the maximum output deviation of FHE neural networks. We implement our algorithm in the VeryDiff framework by extending its zonotope-based reachability analysis primitives to support high-degree polynomials. Experimental results show that ZonoPoly produces approximately 3x tighter bounds than existing methods in most cases.
