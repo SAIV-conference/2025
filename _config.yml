@@ -181,7 +181,7 @@ conference:
       - name: Break
         color: light
       - name: Posters
-        color: alert
+        color: light
     ## Hide icons on talk overview page
     hide_icons: false
 
