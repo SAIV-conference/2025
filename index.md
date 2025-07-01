@@ -13,29 +13,62 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 <div class="row">
 <div class="col-md-6" markdown="1">
 
-<img src="assets/images/eleonora.jpg" alt="Eleonora Giunchiglia" width="40" height="40" style="vertical-align:middle; margin-right:8px;">
-[Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"} (Imperial-X, London, UK)  
-_Neuro-Symbolic and Generative AI_
-<br />
-[Guillermo Perez](https://gaperez64.github.io/){:target="_blank"} (University of Antwerp, Belgium)
-<br />
-&emsp;_Decidable Problems for Partially Observable MDPs_
-<br />
-[Luca Arnaboldi](http://www.arnaboldiluca.eu/){:target="_blank"} (University of Birmingham, UK)
-<br />
-&emsp;_Formal Methods for Natural Language Processing_
-<br />
-[Andreea Costea](https://andrecostea.github.io){:target="_blank"} (TU Delft, The Netherlands)
-<br />
-&emsp;_Assured Automatic Programming via LLMs_
-<br />
-[Masaki Waga](https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/){:target="_blank"} (Kyoto University, Japan)
-<br />
-&emsp;_Soft Pattern Matching: Toward Runtime Verification of NLP Systems_
-<br />
-[Nora Ammann](https://nora-ammann.replit.app/)
-<br />
-&emsp;_Safeguarded AI: Funding Opportunities_
+<table>
+  <tr>
+    <td>
+      <img src="assets/images/eleonora.jpg" alt="Eleonora Giunchiglia" width="48" height="48">
+    </td>
+    <td>
+      <a href="https://profiles.imperial.ac.uk/e.giunchiglia" target="_blank"><b>Eleonora Giunchiglia</b></a> (Imperial-X, London, UK)<br>
+      <em>Neuro-Symbolic and Generative AI</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/images/guillermo.jpg" alt="Guillermo Perez" width="48" height="48">
+    </td>
+    <td>
+      <a href="https://gaperez64.github.io/" target="_blank"><b>Guillermo Perez</b></a> (University of Antwerp, Belgium)<br>
+      <em>Decidable Problems for Partially Observable MDPs</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/images/luca.jpg" alt="Luca Arnaboldi" width="48" height="48">
+    </td>
+    <td>
+      <a href="http://www.arnaboldiluca.eu/" target="_blank"><b>Luca Arnaboldi</b></a> (University of Birmingham, UK)<br>
+      <em>Formal Methods for Natural Language Processing</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/images/andreea.jpg" alt="Andreea Costea" width="48" height="48">
+    </td>
+    <td>
+      <a href="https://andrecostea.github.io" target="_blank"><b>Andreea Costea</b></a> (TU Delft, The Netherlands)<br>
+      <em>Assured Automatic Programming via LLMs</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/images/masaki.jpg" alt="Masaki Waga" width="48" height="48">
+    </td>
+    <td>
+      <a href="https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/" target="_blank"><b>Masaki Waga</b></a> (Kyoto University, Japan)<br>
+      <em>Soft Pattern Matching: Toward Runtime Verification of NLP Systems</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/images/nora.jpg" alt="Nora Ammann" width="48" height="48">
+    </td>
+    <td>
+      <a href="https://nora-ammann.replit.app/" target="_blank"><b>Nora Ammann</b></a><br>
+      <em>Safeguarded AI: Funding Opportunities</em>
+    </td>
+  </tr>
+</table>
 
 </div>
 <div class="col-md-6" markdown="1">
