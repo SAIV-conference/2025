@@ -10,6 +10,9 @@ categories:
   - Presentation
   - Paper
   - "Chair: Mirco Giacobbe"
+links:
+  - name: Paper
+    file: paper3.pdf
 ---
 
 ### Abstract
