@@ -16,7 +16,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 <table>
   <tr>
     <td style="padding-right:16px;">
-      <img src="assets/images/eleonora.jpg" alt="Eleonora Giunchiglia" width="48" height="48">
+      <img src="assets/images/eleonora.jpg" alt="Eleonora Giunchiglia" width="60" height="60">
     </td>
     <td>
       <a href="https://profiles.imperial.ac.uk/e.giunchiglia" target="_blank"><b>Eleonora Giunchiglia</b></a> (Imperial-X, London, UK)<br>
