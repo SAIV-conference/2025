@@ -26,7 +26,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
   <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
     <td style="padding-right:16px;">
-      <img src="assets/images/guillermo.jpg" alt="Guillermo Perez" width="48" height="48">
+      <img src="assets/images/guillermo.jpg" alt="Guillermo Perez" width="100" height="100">
     </td>
     <td>
       <a href="https://gaperez64.github.io/" target="_blank"><b>Guillermo Perez</b></a> (University of Antwerp, Belgium)<br>
@@ -36,7 +36,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
   <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
     <td style="padding-right:16px;">
-      <img src="assets/images/luca.jpg" alt="Luca Arnaboldi" width="48" height="48">
+      <img src="assets/images/luca.jpg" alt="Luca Arnaboldi" width="100" height="100">
     </td>
     <td>
       <a href="http://www.arnaboldiluca.eu/" target="_blank"><b>Luca Arnaboldi</b></a> (University of Birmingham, UK)<br>
@@ -46,7 +46,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
   <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
     <td style="padding-right:16px;">
-      <img src="assets/images/andreea.jpg" alt="Andreea Costea" width="48" height="48">
+      <img src="assets/images/andreea.jpg" alt="Andreea Costea" width="100" height="100">
     </td>
     <td>
       <a href="https://andrecostea.github.io" target="_blank"><b>Andreea Costea</b></a> (TU Delft, The Netherlands)<br>
@@ -56,7 +56,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
   <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
     <td style="padding-right:16px;">
-      <img src="assets/images/masaki.jpg" alt="Masaki Waga" width="48" height="48">
+      <img src="assets/images/masaki.jpg" alt="Masaki Waga" width="100" height="100">
     </td>
     <td>
       <a href="https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/" target="_blank"><b>Masaki Waga</b></a> (Kyoto University, Japan)<br>
@@ -66,7 +66,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
   <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
     <td style="padding-right:16px;">
-      <img src="assets/images/nora.jpg" alt="Nora Ammann" width="48" height="48">
+      <img src="assets/images/nora.jpg" alt="Nora Ammann" width="100" height="100">
     </td>
     <td>
       <a href="https://nora-ammann.replit.app/" target="_blank"><b>Nora Ammann</b></a><br>
@@ -78,6 +78,6 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 </div>
 <div class="col-md-6" markdown="1">
 
-<img height="400px" class="center-block" src="assets/images/speakers.png">
+<img height="500px" class="center-block" src="assets/images/speakers.png">
 
 
