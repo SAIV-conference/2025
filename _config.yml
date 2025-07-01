@@ -83,8 +83,8 @@ conference:
         relative_url: /talks/
       - name: Speakers & Authors
         relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
+      #- name: Location
+      #  relative_url: /location/
       - name: Editions
         menu:
         - name: SAIV 2025
