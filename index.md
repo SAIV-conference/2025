@@ -18,8 +18,8 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 </div>
 <div class="col-md-6" markdown="1">
 
-[Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"} (Imperial-X, London, UK)
-<br />
+<img src="assets/images/eleonora.jpg" alt="Eleonora Giunchiglia" width="40" height="40" style="vertical-align:middle; margin-right:8px;">
+[Eleonora Giunchiglia](https://profiles.imperial.ac.uk/e.giunchiglia){:target="_blank"} (Imperial-X, London, UK)  
 &emsp;_Neuro-Symbolic and Generative AI_
 <br />
 [Guillermo Perez](https://gaperez64.github.io/){:target="_blank"} (University of Antwerp, Belgium)
@@ -37,5 +37,9 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 [Masaki Waga](https://www.fos.kuis.kyoto-u.ac.jp/~mwaga/){:target="_blank"} (Kyoto University, Japan)
 <br />
 &emsp;_Soft Pattern Matching: Toward Runtime Verification of NLP Systems_
+<br />
+[Nora Ammann](https://nora-ammann.replit.app/)
+<br />
+&emsp;_Safeguarded AI: Funding Opportunities_
 
 
