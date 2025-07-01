@@ -29,7 +29,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
       <img src="assets/images/guillermo.jpg" alt="Guillermo Perez" width="100" height="100">
     </td>
     <td>
-      <a href="https://gaperez64.github.io/" target="_blank"><b>Guillermo Perez</b></a> (University of Antwerp, Belgium)<br>
+      <a href="https://gaperez64.github.io/" target="_blank"><b>Guillermo A. Pérez</b></a> (University of Antwerp, Belgium)<br>
       <em>Decidable Problems for Partially Observable MDPs</em>
     </td>
   </tr>
