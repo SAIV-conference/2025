@@ -14,6 +14,7 @@ sass:
 
 plugins:
   - jekyll-include-cache
+  - jekyll-fa-icons
 
 svg:
   optimize: true
