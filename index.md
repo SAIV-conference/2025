@@ -78,6 +78,6 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 </div>
 <div class="col-md-6" markdown="1">
 
-<img height="500px" class="center-block" src="assets/images/speakers.png">
+<img height="500px" class="center-block" src="assets/images/speakers_colored.png">
 
 
