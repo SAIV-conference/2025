@@ -1,5 +1,5 @@
 ---
-name: "(Hybrid) Bridging Neural ODE and ResNet: A Formal Error Bound for Safety Verification"
+name: "Bridging Neural ODE and ResNet: A Formal Error Bound for Safety Verification"
 speakers:
   - Abdelrahman Sayed Sayed
   - Pierre-Jean Meyer
