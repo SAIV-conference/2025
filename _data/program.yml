@@ -17,7 +17,7 @@ days:
       - name: Coffee/Tea & Posters
         time_start: '10:30'
         time_end: '11:00'
-      - name: "(Hybrid) Bridging Neural ODE and ResNet: A Formal Error Bound for Safety Verification"
+      - name: "Bridging Neural ODE and ResNet: A Formal Error Bound for Safety Verification"
         time_start: '11:00'
         time_end: '11:20'
       - name: "Neural Network Verification for Gliding Drone Control: A Case Study"
@@ -42,7 +42,7 @@ days:
       - name: Coffee/Tea & Posters
         time_start: '15:30'
         time_end: '16:00'
-      - name: "ClassInvGen: Class Invariant Synthesis using Large Language Models"
+      - name: "(Hybrid) ClassInvGen: Class Invariant Synthesis using Large Language Models"
         time_start: '16:00'
         time_end: '16:20'
       - name: Quantifiers for Differentiable Logics in Rocq
