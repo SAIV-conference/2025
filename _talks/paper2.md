@@ -1,9 +1,13 @@
 ---
-name: "(Hybrid) Bridging Neural ODE and ResNet: A Formal Error Bound for Safety Verification"
+name: "Neural Network Verification for Gliding Drone Control: A Case Study"
 speakers:
-  - Abdelrahman Sayed Sayed
-  - Pierre-Jean Meyer
-  - Mohamed Ghazel 
+  - Colin Kessler
+  - Ekaterina Komendantskaya
+  - Marco Casadio
+  - Ignazio Maria Viola
+  - Albaraa Ammar Othman
+  - Alistair Malhotra
+  - Robbie McPherson 
 categories:
   - Presentation
   - Paper
@@ -12,4 +16,4 @@ categories:
 
 ### Abstract
 
-A neural ordinary differential equation (neural ODE) is a machine learning model that is commonly described as a continuous-depth generalization of a residual network (ResNet) with a single residual block, or conversely, the ResNet can be seen as the Euler discretization of the neural ODE. These two models are therefore strongly related in a way that the behaviors of either model are considered to be an approximation of the behaviors of the other. In this work, we establish a more formal relationship between these two models by bounding the approximation error between two such related models. The obtained error bound then allows us to use one of the models as a verification proxy for the other, without running the verification tools twice: if the reachable output set expanded by the error bound satisfies a safety property on one of the models, this safety property is then guaranteed to be also satisfied on the other model. This feature is fully reversible, and the initial safety verification can be run indifferently on either of the two models. This novel approach is illustrated on a numerical example of a fixed-point attractor system modeled as a neural ODE.
+As machine learning is increasingly deployed in autonomous systems, verification of neural network controllers is becoming an active research domain. Existing tools and annual verification competitions suggest that soon this technology will become effective for real-world applications. Our application comes from the emerging field of microflyers that are passively transported by the wind, which may have various uses in weather or pollution monitoring. Specifically, we investigate centimetre-scale bio-inspired gliding drones that resemble Alsomitra macrocarpa diaspores. In this paper, we propose a new case study on verifying Alsomitra-inspired drones with neural network controllers, with the aim of adhering closely to a target trajectory. We show that our system differs substantially from existing VNN and ARCH competition benchmarks, and show that a combination of tools holds promise for verifying such systems in the future, if certain shortcomings can be overcome. We propose a novel method for robust training of regression networks, and investigate formalisations of this case study in Vehicle and CORA. Our verification results suggest that the investigated training methods do improve performance and robustness of neural network controllers in this application, but are limited in scope and usefulness. This is due to systematic limitations of both Vehicle and CORA, and the complexity of our system reducing the scale of reachability, which we investigate in detail. If these limitations can be overcome, it will enable engineers to develop safe and robust technologies that improve people’s lives and reduce our impact on the environment.
