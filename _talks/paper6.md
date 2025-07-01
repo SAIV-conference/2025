@@ -8,7 +8,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: Mirco Giacobbe"
+  - "Chair: Anna Lukina"
 ---
 
 ### Abstract
