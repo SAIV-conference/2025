@@ -15,7 +15,7 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 
 <table>
   <tr>
-    <td>
+    <td style="padding-right:16px;">
       <img src="assets/images/eleonora.jpg" alt="Eleonora Giunchiglia" width="48" height="48">
     </td>
     <td>
@@ -23,8 +23,9 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
       <em>Neuro-Symbolic and Generative AI</em>
     </td>
   </tr>
+  <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
-    <td>
+    <td style="padding-right:16px;">
       <img src="assets/images/guillermo.jpg" alt="Guillermo Perez" width="48" height="48">
     </td>
     <td>
@@ -32,8 +33,9 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
       <em>Decidable Problems for Partially Observable MDPs</em>
     </td>
   </tr>
+  <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
-    <td>
+    <td style="padding-right:16px;">
       <img src="assets/images/luca.jpg" alt="Luca Arnaboldi" width="48" height="48">
     </td>
     <td>
@@ -41,8 +43,9 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
       <em>Formal Methods for Natural Language Processing</em>
     </td>
   </tr>
+  <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
-    <td>
+    <td style="padding-right:16px;">
       <img src="assets/images/andreea.jpg" alt="Andreea Costea" width="48" height="48">
     </td>
     <td>
@@ -50,8 +53,9 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
       <em>Assured Automatic Programming via LLMs</em>
     </td>
   </tr>
+  <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
-    <td>
+    <td style="padding-right:16px;">
       <img src="assets/images/masaki.jpg" alt="Masaki Waga" width="48" height="48">
     </td>
     <td>
@@ -59,8 +63,9 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
       <em>Soft Pattern Matching: Toward Runtime Verification of NLP Systems</em>
     </td>
   </tr>
+  <tr><td colspan="2" style="height:18px;"></td></tr>
   <tr>
-    <td>
+    <td style="padding-right:16px;">
       <img src="assets/images/nora.jpg" alt="Nora Ammann" width="48" height="48">
     </td>
     <td>
@@ -73,6 +78,6 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 </div>
 <div class="col-md-6" markdown="1">
 
-<img height="500px" class="center-block" src="assets/images/speakers.png">
+<img height="400px" class="center-block" src="assets/images/speakers.png">
 
 
