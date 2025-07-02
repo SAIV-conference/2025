@@ -7,9 +7,7 @@ categories:
   - Presentation
   - Paper
   - "Chair: Anna Lukina"
-links:
-  - name: Paper
-    file: paper13.pdf
+
 ---
 
 ### Abstract
