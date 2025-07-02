@@ -78,6 +78,9 @@ SAIV 2025 will host the [6th International Verification of Neural Networks Compe
 </div>
 <div class="col-md-6" markdown="1">
 
+The travel of invited speakers was made possible thanks to [ELSA Mobility Program](https://elsa-ai.eu/overview/).
+<img height="500px" class="center-block" src="assets/images/elsa-logo.png">
+
 <img height="500px" class="center-block" src="assets/images/speakers_colored.png">
 
 
