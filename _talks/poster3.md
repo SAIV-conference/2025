@@ -1,5 +1,5 @@
 ---
-name: Analyzing Adversarial Inputs in Deep Reinforcement Learning
+name: "3: Analyzing Adversarial Inputs in Deep Reinforcement Learning"
 speakers:
 categories:
   - Posters
