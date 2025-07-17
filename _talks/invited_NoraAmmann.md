@@ -1,5 +1,5 @@
 ---
-name: "(Hybrid) Safeguarded AI: Funding Opportunities"
+name: "(Hybrid) Perspectives: Opportunities at the intersection of FM and AI"
 speakers:
   - Nora Ammann
 categories:
