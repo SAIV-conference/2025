@@ -4,6 +4,6 @@ speakers:
   - Taylor T. Johnson
 categories:
   - VNN-COMP
-  - "Chair: Eleonora Giunchiglia"
+  - "Chair: Mirco Giacobbe"
 
 ---
