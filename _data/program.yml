@@ -17,6 +17,9 @@ days:
       - name: Coffee/Tea & Posters
         time_start: '10:30'
         time_end: '11:00'
+      - name: "3: Analyzing Adversarial Inputs in Deep Reinforcement Learning"
+        time_start: '10:30'
+        time_end: '10:35'
       - name: "Bridging Neural ODE and ResNet: A Formal Error Bound for Safety Verification"
         time_start: '11:00'
         time_end: '11:20'
