@@ -3,7 +3,7 @@ days:
   abbr: Mon
   date: 2025-07-21
   rooms:
-  - name: Faculty of Electrical Engineering and Computing
+  - name: D-152 (D-building, 1st floor)
     talks:
       - name: Decidable Problems for Partially Observable MDPs
         time_start: '9:00'
@@ -47,11 +47,13 @@ days:
       - name: Quantifiers for Differentiable Logics in Rocq
         time_start: '16:20'
         time_end: '16:40'
+
+
 - name: Tuesday
   abbr: Tue
   date: 2025-07-22
   rooms:
-  - name: Faculty of Electrical Engineering and Computing
+  - name: D-152 (D-building, 1st floor)
     talks:
       - name: Neuro-Symbolic and Generative AI
         time_start: '9:00'
