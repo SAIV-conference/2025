@@ -156,9 +156,9 @@ conference:
 
   # Live indications
   live:
-    date: 21.07.2025
-    timezone: GMT+1
-    stop:       240  # in minutes
+    #date: 21.07.2025
+    #timezone: GMT+1
+    #stop:       240  # in minutes
     streaming:
       enable: true
       #pause:     60  # in minutes
