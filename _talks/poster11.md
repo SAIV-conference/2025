@@ -1,10 +1,10 @@
 ---
-name: "Control Barrier Functions with Lookahead"
+name: "VERONA: A Framework for Neural Network Robustness Experiments"
 speakers: 
-  - Thomas A Henzinger
-  - Kaushik Mallik
-  - Emily Yu
-  - Đorđe Žikelić 
+  - Aaron Berger
+  - Annelot Willemijn Bosman
+  - Holger Hoos
+  - Jan N van Rijn 
 categories:
   - Posters
   - Poster
@@ -12,6 +12,19 @@ categories:
 
 ### Abstract
 
-Modern embedded systems need to meet stringent safety requirements, often in the presence of dynamic environments. Control barrier functions (CBFs) have emerged as a tool for proving the safety of controllers for dynamical systems. Traditionally, CBFs are generated statically before system deployment, with a given model of the set of all possible environment behaviors, under the assumption that the environment may behave adversarially during deployment. However, the reliance on environment models makes the approach sensitive towards modeling errors, while the adversarial assumption on the environment causes excessively conservative results in many situations. In practice, embedded systems have access to real-time information of observed environment behaviors, which can be used to predict their future behaviors with reasonable accuracies. In this paper, we present CBFs with lookahead (CBFLs), which extend traditional CBFs with the ability to adapt to bounded-horizon environment lookaheads available dynamically at runtime. When the lookahead horizon is zero, CBFLs coincide with CBFs (without lookahead). When the lookahead horizon is nonzero, CBFLs offer greater resilience to environment model violations and offer increased permissiveness in enabling safe behaviors. We propose a learning framework to automatically synthesize neural CBFLs and the associated neural safety controllers from sampled system trajectories. We demonstrate that CBFLs can significantly outperform traditional CBFs in ensuring safety in the automotive domain in the presence of other (uncontrollable) agents in the environment.
+This proposal suggests a presentation of VERONA, a framework designed to simplify robustness evaluation. 
+In this presentation, we will describe the types of experiments for which VERONA can be used and highlight its potential for various robustness evaluation experiments by using verification, certification and adversarial attack methods. 
+Further, in this presentation, we will provide an overview of our open-source, object-oriented software package from both a developer's and a user's perspective. 
+We do this by providing a live-coding tutorial of how to use the software for verification experiments (if the alloted time permits it) and explaining how the community can contribute to the software. 
+Additionally, given enough time, we will showcase several case studies to demonstrate the versatility and effectiveness of VERONA in different robustness evaluation experiments.
+In this proposal we give a motivation for using the software and an outline for the presentation.
+
+The proposal for this presentation is based on the software that was developed for performing experiments and used (amongst others) in a paper that is under review at the Journal of Artificial Intelligence Research (JAIR). 
+Currently, the software is also prepaired for submission to the Machine Learning Open Source Software (MLOSS) journal. 
+
+We think presenting the software at the SAIV symposium can give us insights in making it more accesible and widely-used. 
+We are hoping for valuable feedback from the community which we can use to extend the functionalities of the software, which can help us improve the usability and community adaptation. 
+The software has helped us set-up experiments for verification in matters of minutes instead of the multiple days or even weeks that preparing experiments used to take us. 
+We expect that the SAIV community can also benefit from using our software and hope to show this during the presentation.
 
 
