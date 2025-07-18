@@ -3,6 +3,7 @@ name: "Formally Verifying Stock Classifiers: A Case Study"
 speakers:
 categories:
   - Posters
+  - Poster
 ---
 
 ### Abstract
