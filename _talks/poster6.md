@@ -19,4 +19,6 @@ In this work, we seek to reduce this cost by leveraging running time prediction 
 Towards this end, we present a novel method that dynamically predicts whether a verification instance can be solved in the remaining time budget available to the verification algorithm.
 We introduce features describing BaB-based verification instances and use these to construct running time, and more specifically, timeout prediction models.
 We leverage these models to terminate runs on instances early in the verification process that would otherwise result in a timeout.
-Overall, using our method, we were able to reduce the total running time by 64\% on average compared to the standard verification procedure, while certifying a comparable number of instances."
+Overall, using our method, we were able to reduce the total running time by 64\% on average compared to the standard verification procedure, while certifying a comparable number of instances.
+
+

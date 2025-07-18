@@ -86,6 +86,7 @@ conference:
       #- name: Location
       #  relative_url: /location/
       - live: true
+        absolute_url: https://tudelft.zoom.us/j/98380326520?pwd=qdM2PXQWbmh0nFfxkmDo3ufsGlWGEG.1
       - name: Editions
         menu:
         - name: SAIV 2025
@@ -154,12 +155,12 @@ conference:
   #    pages_only: true
 
   # Live indications
-  live:
+  #live:
     #date: 21.07.2025
     #timezone: GMT+1
     #stop:       240  # in minutes
-    streaming:
-      enable: true
+    #streaming:
+      #enable: true
       #pause:     60  # in minutes
       #prepend:    5  # in minutes
       #extend:     5  # in minutes

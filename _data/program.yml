@@ -1,7 +1,7 @@
 days:
 - name: Monday
   abbr: Mon
-  #date: 2025-07-21
+  date: 2025-07-21
   rooms:
   - name: D-152 (D-building, 1st floor)
     talks:
