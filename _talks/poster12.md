@@ -1,5 +1,5 @@
 ---
-name: "Monitoring Robustness and Individual Fairness (Presentation Only)"
+name: "Monitoring Robustness and Individual Fairness"
 speakers: 
   - Konstantin Kueffner
   - Kaushik Mallik
