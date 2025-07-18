@@ -1,6 +1,10 @@
 ---
 name: "Analyzing Adversarial Inputs in Deep Reinforcement Learning"
-speakers: Davide Corsi, Guy Amir, Guy Katz, Alessandro Farinelli
+speakers: 
+  - Davide Corsi
+  - Guy Amir
+  - Guy Katz
+  - Alessandro Farinelli
 categories:
   - Posters
   - Poster

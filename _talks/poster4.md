@@ -1,6 +1,10 @@
 ---
 name: "Dynamic Back-Substitution in Bound-Propagation-Based Neural Network Verification"
-speakers: Panagiotis Kouvaros, Benedikt Brückner, Patrick Henriksen, Alessio Lomuscio
+speakers: 
+  - Panagiotis Kouvaros
+  - Benedikt Brückner
+  - Patrick Henriksen
+  - Alessio Lomuscio
 categories:
   - Posters
   - Poster

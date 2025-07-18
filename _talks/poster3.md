@@ -1,6 +1,10 @@
 ---
 name: "Revisiting Differential Verification: Equivalence Verification with Confidence"
-speakers: Samuel Teuber, Philipp Daniel Kern, Marvin Janzen, Bernhard Beckert  
+speakers: 
+  - Samuel Teuber
+  - Philipp Daniel Kern
+  - Marvin Janzen
+  - Bernhard Beckert  
 categories:
   - Posters
   - Poster
