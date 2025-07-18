@@ -96,7 +96,7 @@ days:
       - name: Neuro-Symbolic and Generative AI
         time_start: '9:00'
         time_end: '9:30'
-      - name: VNN-COM
+      - name: VNN-COMP
         time_start: '9:30'
         time_end: '10:00'
       - name: Round-table discussion
