@@ -85,6 +85,7 @@ conference:
         relative_url: /speakers/
       #- name: Location
       #  relative_url: /location/
+      - live: true
       - name: Editions
         menu:
         - name: SAIV 2025
