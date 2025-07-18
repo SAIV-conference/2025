@@ -49,7 +49,7 @@ days:
         time_end: '16:40'
 
   - name: Coffee Break Room
-    -talks:
+    talks:
       - name: Analyzing Adversarial Inputs in Deep Reinforcement Learning
         time_start: '9:00'
         time_end: '9:30'
