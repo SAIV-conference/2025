@@ -1,6 +1,6 @@
 ---
 name: "Formally Verifying Stock Classifiers: A Case Study"
-speakers:
+speakers: Guy Amir, Daniel Wiedenmann, Guy Katz 
 categories:
   - Posters
   - Poster
