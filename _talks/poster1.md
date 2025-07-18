@@ -1,8 +1,9 @@
 ---
 name: "Analyzing Adversarial Inputs in Deep Reinforcement Learning"
-speakers:
+speakers: 
 categories:
   - Posters
+  - Poster
 ---
 
 ### Abstract
