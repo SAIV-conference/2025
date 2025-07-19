@@ -51,11 +51,6 @@ defaults:
       type: speakers
     values:
       layout: speaker
-  - scope:
-      path: ""
-      type: rooms
-    values:
-      layout: room
 
 conference:
   # Language
@@ -83,6 +78,8 @@ conference:
         relative_url: /talks/
       - name: Speakers & Authors
         relative_url: /speakers/
+      - name: Posters
+        relative_url: /posters/
       #- name: Location
       #  relative_url: /location/
       #- live: true
