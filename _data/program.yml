@@ -93,7 +93,7 @@ days:
   rooms:
   - name: D-152 (D-building, 1st floor)
     talks:
-      - name: Neuro-Symbolic and Generative AI
+      - name: Ensuring Reliable Outcomes in Deep Learning: The Key Role of Requirements
         time_start: '9:00'
         time_end: '9:30'
       - name: VNN-COMP
