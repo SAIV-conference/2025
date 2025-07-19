@@ -1,5 +1,5 @@
 ---
-name: Ensuring Reliable Outcomes in Deep Learning: The Key Role of Requirements
+name: "Ensuring Reliable Outcomes in Deep Learning: The Key Role of Requirements"
 speakers:
   - Eleonora Giunchiglia
 categories:
