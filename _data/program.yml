@@ -32,7 +32,7 @@ days:
       - name: "Soft Pattern Matching: Toward Runtime Verification of NLP Systems"
         time_start: '14:00'
         time_end: '14:30'
-      - name: Formal Methods for Natural Language Processing
+      - name: "From ε-Balls to Semantics: Towards Verifiable NLP Pipelines"
         time_start: '14:30'
         time_end: '15:00'
       - name: Round-table discussion
