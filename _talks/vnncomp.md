@@ -5,5 +5,4 @@ speakers:
 categories:
   - VNN-COMP
   - "Chair: Mirco Giacobbe"
-
 ---
