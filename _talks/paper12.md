@@ -7,7 +7,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: Anna Lukina"
+  - "Chair: Taylor Johnson"
 
 ---
 
