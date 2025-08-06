@@ -9,7 +9,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: Anna Lukina"
+  - "Chair: Kaushik Mallik"
 
 ---
 

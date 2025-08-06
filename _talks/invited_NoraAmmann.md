@@ -5,7 +5,7 @@ speakers:
 categories:
   - Invited Talk
   - Table Host
-  - "Chair: Mirco Giacobbe"
+  - "Chair: Anna Lukina"
 ---
 
 ### Abstract

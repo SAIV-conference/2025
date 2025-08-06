@@ -7,7 +7,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: Mirco Giacobbe"
+  - "Chair: Edoardo Manino"
 ---
 
 ### Abstract

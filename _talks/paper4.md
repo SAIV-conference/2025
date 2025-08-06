@@ -12,7 +12,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: Mirco Giacobbe"
+  - "Chair: Luca Arnaboldi"
 
 ---
 
