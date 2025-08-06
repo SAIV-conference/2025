@@ -6,7 +6,7 @@ speakers:
   - Anna Lukina
   - Christian Schilling
   - Ann Nowe
-  - Guillermo Perez 
+  - Guillermo A. Pérez
 categories:
   - Posters
   - Poster
