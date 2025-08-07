@@ -7,7 +7,7 @@ categories:
   - Table Host
   - "Chair: Anna Lukina"
 links:
-  - name: Slides
+  - name: slides
     file: slidesGuillermoPerez.pdf
 ---
 
