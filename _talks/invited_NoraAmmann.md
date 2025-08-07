@@ -6,6 +6,9 @@ categories:
   - Invited Talk
   - Table Host
   - "Chair: Anna Lukina"
+links:
+  - name: slides
+    file: slidesNoraAmmann.pdf
 ---
 
 ### Abstract
