@@ -125,9 +125,9 @@ conference:
       relative_url: /program/
     - name: How to get there
       absolute_url: 'https://conferences.i-cav.org/2025/venues/'
-    - name: Registration
-      disabled: false
-      absolute_url: 'https://conferences.i-cav.org/2025/registration/'
+    # - name: Registration
+    #   disabled: false
+    #   absolute_url: 'https://conferences.i-cav.org/2025/registration/'
     - name: Proceedings
       disabled: false
       absolute_url: 'https://link.springer.com/book/10.1007/978-3-031-99991-8'
@@ -147,6 +147,10 @@ conference:
   #  - text: This is just some random content for demonstration purposes.
   #    color: warning
   #    pages_only: true
+  info_bars:
+    - text: SAIV 2025 has successfully concluded! Find [the latest edition here](/).
+      color: warning
+      main_only: true
 
   # Live indications
   #live:
