@@ -11,12 +11,12 @@
       <ul class="navbar-nav mr-auto">
         {%- for link in site.conference.navigation.links -%}
 
-          {%- if link.menu %}
+          {%- if link.menu or link.editions %}
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbar-dropdown{{ forloop.index0 }}" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 {{ link.name }}
               </a>
-              <div class="dropdown-menu" aria-labelledby="navbar-dropdown{{ forloop.index0 }}">
+              <div class="dropdown-menu" aria-labelledby="navbar-dropdown{{ forloop.index0 }}"{% if link.editions %} data-editions="{{ link.editions }}"{% endif %}>
                 {%- assign parent_link = link -%}
                 {%- for link in parent_link.menu -%}
                   {%- assign link_styleclass = "dropdown-item" -%}
@@ -94,4 +94,13 @@
     {%- endif %}
 
   </div>
+
+  <script>
+    // Fill the Editions menu from the shared list on the root site.
+    document.querySelectorAll('[data-editions]').forEach(menu =>
+      fetch(menu.dataset.editions).then(r => r.json()).then(editions =>
+        menu.innerHTML = editions.map(e =>
+          `<a class="dropdown-item${e.url == '{{ site.baseurl }}' ? ' disabled' : ''}" href="${e.url}">${e.name}</a>`
+        ).join('')));
+  </script>
 </nav>
