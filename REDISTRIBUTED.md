@@ -39,7 +39,7 @@ This project redistributes the following third-party software. We have decided t
  - [Leaflet.Locate](https://github.com/domoritz/leaflet-locatecontrol/)
 
     Copyright (c) 2014 Dominik Moritz.
-    [MIT License](https://github.com/domoritz/leaflet-locatecontrol/blob/gh-pages/LICENSE)
+    [MIT License](https://github.com/domoritz/leaflet-locatecontrol/blob/gh-pages/LICENSE.md)
 
  - [Leaflet-providers](https://github.com/leaflet-extras/leaflet-providers/)
 
@@ -50,7 +50,7 @@ This project redistributes the following third-party software. We have decided t
  - [Popper.js](https://popper.js.org)
 
     Copyright (c) 2019 Federico Zivolo.
-    [MIT License](https://github.com/popperjs/popper-core/blob/master/LICENSE.md).
+    [MIT License](https://github.com/floating-ui/floating-ui/blob/v2.x/LICENSE.md).
 
  - [syncscroll](https://github.com/asvd/syncscroll)
 
